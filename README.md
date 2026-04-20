@@ -23,6 +23,6 @@
 下载后直接双击运行即可，无需安装 Python 环境。
 
 
-<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/2fa11f87-ed65-471d-8024-24be58652e12" />
+<img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/2fa11f87-ed65-471d-8024-24be58652e12" />
 
 
